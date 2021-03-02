@@ -115,6 +115,7 @@ celerybeat.pid
 .env
 .env-local
 .env-prod
+.flaskenv
 .venv
 env/
 venv/
